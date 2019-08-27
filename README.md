@@ -1,5 +1,7 @@
 # Singularity-Computer-Vision
 
+![CV](https://i.ibb.co/9TfjvY3/cv.jpg)
+
 > This Repository for Singularity Computer Vision Course Materials.
 
 **How To Use**
