@@ -6,8 +6,8 @@
 
 **How To Use**
 
- 1. Download Data.rar File from [here](https://drive.google.com/open?id=1jGUmdAMoF5Bjjc9_4_FaGSpGMRtFXOXu).
- 2. Unrar it.
+ 1. Download Data.zip File from [here](https://drive.google.com/file/d/11SXjiUOz5US5j3BkhADXo9fZUDvh3_Af/view?usp=sharing).
+ 2. Decompress it.
  3. Move Data folder in the Repository Directory.
  4. Download this version for Anaconda from [here](https://repo.continuum.io/archive/Anaconda3-5.2.0-Windows-x86_64.exe).
  5. Downoad this version for Tesseract from [here](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20190708.exe).
