@@ -6,7 +6,7 @@
 
 **How To Use**
 
- 1. Download Data.zip File from [here](https://drive.google.com/file/d/11SXjiUOz5US5j3BkhADXo9fZUDvh3_Af/view?usp=sharing).
+ 1. Download Data.zip File from [here](https://drive.google.com/file/d/1r0oxTKpGTOtJ8Q60TXuboD3sjGMvt9SK/view?usp=sharing).
  2. Decompress it.
  3. Move Data folder in the Repository Directory.
  4. Download this version for Anaconda from [here](https://repo.continuum.io/archive/Anaconda3-5.2.0-Windows-x86_64.exe).
